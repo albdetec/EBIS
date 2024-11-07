@@ -4,3 +4,6 @@ Ana
 Mariano
 Felipe
 Raul
+Pedro
+Laura
+Rita
