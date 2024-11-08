@@ -1,9 +1,8 @@
-Alberto 22
-Luis
+Alberto 55
+Luis 15
 Ana
-Mariano 15
+Mariano 16
 Felipe
 Raul
-Pedro 10
+Pedro 12
 Laura
-Rita
