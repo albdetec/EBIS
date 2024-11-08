@@ -1,8 +1,8 @@
-Alberto 66
-Luis 16
+Alberto 77
+Luis 7
 Ana
-Mariano 17
+Mariano 7
 Felipe
 Raul
-Pedro 13
+Pedro 7
 Laura
