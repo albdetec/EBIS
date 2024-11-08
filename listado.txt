@@ -1,9 +1,9 @@
-Alberto
-Luis
+Alberto 11
+Luis 23
 Ana
 Mariano
 Felipe
 Raul
-Pedro
+Pedro 35
 Laura
 Rita
