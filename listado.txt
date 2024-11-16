@@ -1,8 +1,7 @@
-Alberto 999
-Luis 99
+Alberto 888
+Luis 88
 Ana
-Mariano 99
+Mariano 88
 Felipe
 Raul
-Pedro 99
-Laura
+Pedro 88
